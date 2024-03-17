@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PatchNumberIncrements": {
+      "commandName": "Project",
+      "commandLineArgs": "\"patch\""
+    }
+  }
+}
